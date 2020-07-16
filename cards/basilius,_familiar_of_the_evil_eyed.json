@@ -10,7 +10,7 @@
   "species": "Fiend",
   "attack": "400",
   "defense": "2000",
-  "attribute": "Dark",
+  "attribute": "DARK",
   "is_pendulum": false,
   "is_xyz": false,
   "is_synchro": false,
