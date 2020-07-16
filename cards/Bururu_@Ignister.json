@@ -10,7 +10,7 @@
   "species": "Cyberse",
   "attack": "600",
   "defense": "1000",
-  "attribute": "Wind",
+  "attribute": "WIND",
   "is_pendulum": false,
   "is_xyz": false,
   "is_synchro": false,
