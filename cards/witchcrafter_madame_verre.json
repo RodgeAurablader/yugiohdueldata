@@ -10,7 +10,7 @@
   "species": "Spellcaster",
   "attack": "1000",
   "defense": "2800",
-  "attribute": "Light",
+  "attribute": "LIGHT",
   "is_pendulum": false,
   "is_xyz": false,
   "is_synchro": false,
