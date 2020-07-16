@@ -9,7 +9,7 @@
   "is_trap": false,
   "species": "Machine",
   "attack": "1000",
-  "attribute": "Earth",
+  "attribute": "EARTH",
   "is_pendulum": false,
   "is_xyz": false,
   "is_synchro": false,
