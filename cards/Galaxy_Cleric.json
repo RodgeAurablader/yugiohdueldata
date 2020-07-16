@@ -7,7 +7,7 @@
   "is_monster": true,
   "is_spell": false,
   "is_trap": false,
-  "species": "Spellcaser",
+  "species": "Spellcaster",
   "attack": "1500",
   "defense": "600",
   "attribute": "LIGHT",
