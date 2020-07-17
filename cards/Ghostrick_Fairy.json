@@ -8,7 +8,7 @@
   "is_spell": false,
   "is_trap": false,
   "species": "Spellcaster",
-  "attack": 900",
+  "attack": "900",
   "defense": "1000",
   "attribute": "DARK",
   "is_pendulum": false,
