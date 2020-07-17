@@ -1,0 +1,25 @@
+{
+  "name": "Number 4: Numeron Gate Catvari",
+  "number": "04019153",
+  "is_illegal": false,
+  "text": "3 Level 1 monsters\nCannot be destroyed by battle. At the end of the Damage Step, if this card battled an opponent's monster: You can detach 1 material from this card; double the ATK of all \"Numeron\" monsters you currently control, until the end of this turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "1000",
+  "defense": "100",
+  "attribute": "LIGHT",
+  "is_pendulum": false,
+  "is_xyz": true,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "XYZ",
+    "Effect"
+  ],
+  "stars": "1"
+}

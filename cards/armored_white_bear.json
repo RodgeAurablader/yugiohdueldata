@@ -1,0 +1,24 @@
+{
+  "name": "Armored White Bear",
+  "number": "17170970",
+  "is_illegal": false,
+  "text": "If this card is Normal or Special Summoned while a Synchro Monster is on the field: You can target 1 Field Spell in your GY; add it to your hand. If this card is destroyed by battle and sent to the GY, or if this card in your possession is destroyed by an opponent's card effect and sent to your GY: You can Special Summon 1 Level 4 or lower Beast monster from your Deck or GY, except \"Armored White Bear\". You can only use each effect of \"Armored White Bear\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Beast",
+  "attack": "1800",
+  "defense": "1400",
+  "attribute": "WATER",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "4"
+}

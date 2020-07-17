@@ -1,0 +1,25 @@
+{
+  "name": "Fossil Dragon Skullgar",
+  "number": "12015000",
+  "is_illegal": false,
+  "text": "1 Rock monster + 1 Level 4 or lower monster in your opponent's GY\nMust first be Special Summoned with \"Fossil Fusion\". If this card attacks a Defense Position monster, inflict piercing battle damage. You can banish this card from your GY; add 1 \"Fossil Fusion\" from your Deck to your hand. You can only use this effect of \"Fossil Dragon Skullgar\" once per turn.",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Rock",
+  "attack": "2500",
+  "defense": "0",
+  "attribute": "EARTH",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": true,
+  "is_link": false,
+  "is_extra_deck": true,
+  "monster_types": [
+    "Fusion",
+    "Effect"
+  ],
+  "stars": "4"
+}
