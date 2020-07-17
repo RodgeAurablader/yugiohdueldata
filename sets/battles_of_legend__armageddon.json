@@ -1,0 +1,951 @@
+{
+  "name": "Battles of Legend: Armageddon",
+  "type": "Booster Pack",
+  "date": "2020-07-23",
+  "distribution": "battles_of_legend",
+  "prefix": "BLHR",
+  "sub_sets": [],
+  "load": true,
+  "cards": [
+    {
+      "card_name": "Number 39: Utopia",
+      "set_number": "BLHR-EN000",
+      "rarities": [
+        "Prismatic Secret Rare"
+      ],
+      "count": {
+        "Prismatic Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Dark Spell Regeneration",
+      "set_number": "BLAR-EN001",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Powered Crawler",
+      "set_number": "BLAR-EN002",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Intruder Alarm - Yellow Alert",
+      "set_number": "BLAR-EN003",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Penguin Torpedo",
+      "set_number": "BLAR-EN004",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Weathering Soldier",
+      "set_number": "BLAR-EN005",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Fossil Warrior Skull King",
+      "set_number": "BLAR-EN006",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Fossil Warrior Skull Knight",
+      "set_number": "BLAR-EN007",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Fossil Warrior Skull Bone",
+      "set_number": "BLAR-EN008",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Fossil Dragon Skullgios",
+      "set_number": "BLAR-EN009",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Fossil Dragon Skullgar",
+      "set_number": "BLAR-EN010",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Fossil Fusion",
+      "set_number": "BLAR-EN011",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Time Stream",
+      "set_number": "BLAR-EN012",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Specimen Inspection",
+      "set_number": "BLAR-EN013",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Miracle Rupture",
+      "set_number": "BLAR-EN014",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Psychic Wave",
+      "set_number": "BLAR-EN015",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Armored White Bear",
+      "set_number": "BLAR-EN016",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Afterglow",
+      "set_number": "BLAR-EN017",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "High Rate Draw",
+      "set_number": "BLAR-EN018",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Malefic Paradigm Dragon",
+      "set_number": "BLAR-EN019",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Numeron Wall",
+      "set_number": "BLAR-EN020",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Number C1: Numeron Chaos Gate Sunya",
+      "set_number": "BLAR-EN021",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 1: Numeron Gate Ekam",
+      "set_number": "BLAR-EN022",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 2: Numeron Gate Dve",
+      "set_number": "BLAR-EN023",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 3: Numeron Gate Trini",
+      "set_number": "BLAR-EN024",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 4: Numeron Gate Catvari",
+      "set_number": "BLAR-EN025",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Numeron Network",
+      "set_number": "BLAR-EN026",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Numeron Calling",
+      "set_number": "BLAR-EN027",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Number 3: Cicada King",
+      "set_number": "BLAR-EN028",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Flower Cardian Cherry Blossom",
+      "set_number": "BLAR-EN029",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Super All In!",
+      "set_number": "BLAR-EN030",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Glacial Beast Blizzard Wolf",
+      "set_number": "BLAR-EN031",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Glacial Beast Polar Penguin",
+      "set_number": "BLAR-EN032",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Glacial Beast Iceberg Narwhal",
+      "set_number": "BLAR-EN033",
+      "rarities": [
+        "Secre Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Fire Flint Lady",
+      "set_number": "BLAR-EN034",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Appliancer Socketroll",
+      "set_number": "BLAR-EN035",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Appliancer Breakerbuncle",
+      "set_number": "BLAR-EN036",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Appliancer Copybokkle",
+      "set_number": "BLAR-EN037",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Appliancer Celtopus",
+      "set_number": "BLAR-EN038",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Appliancer Kappa Scale",
+      "set_number": "BLAR-EN039",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Appliancer Vacculephant",
+      "set_number": "BLAR-EN040",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Appliancer Laundry Dragon",
+      "set_number": "BLAR-EN041",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Appliancer Dryer Drake",
+      "set_number": "BLAR-EN042",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Appliancer Reuse",
+      "set_number": "BLAR-EN043",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Appliancer Test",
+      "set_number": "BLAR-EN044",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Appliancer Electrilyrical World",
+      "set_number": "BLAR-EN045",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Number F0: Utopic Future Slash",
+      "set_number": "BLAR-EN046",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Darkness Metal, the Dragon of Dark Steel",
+      "set_number": "BLAR-EN047",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Trishula, the Dragon of Icy Imprisonment",
+      "set_number": "BLAR-EN048",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Judgment, the Dragon of Heaven",
+      "set_number": "BLAR-EN049",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Dark Armed, the Dragon of Annihilation",
+      "set_number": "BLAR-EN050",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Chaos Emperor, the Dragon of Armageddon",
+      "set_number": "BLAR-EN051",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Book of Moon",
+      "set_number": "BLAR-EN052",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Elemental HERO Neos Alius",
+      "set_number": "BLAR-EN053",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Elemental HERO Shining Flare Wingman",
+      "set_number": "BLAR-EN054",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Elemental HERO Chaos Neos",
+      "set_number": "BLAR-EN055",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Elemental HERO Escuridao",
+      "set_number": "BLAR-EN056",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Goyo Guardian",
+      "set_number": "BLAR-EN057",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Goyo Defender",
+      "set_number": "BLAR-EN058",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Koa'ki Meiru Drago",
+      "set_number": "BLAR-EN059",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Black Whirlwind",
+      "set_number": "BLAR-EN060",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Blackwing - Kris the Crack of Dawn",
+      "set_number": "BLAR-EN061",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Assault Blackwing - Sohaya the Rain Storm",
+      "set_number": "BLAR-EN062",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Boost Warrior",
+      "set_number": "BLAR-EN063",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Steam Synchron",
+      "set_number": "BLAR-EN064",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Junk Anchor",
+      "set_number": "BLAR-EN065",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Brotherhood of the Fire Fist - Lion Emperor",
+      "set_number": "BLAR-EN066",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Kalantosa, Mystical Beast of the Forest",
+      "set_number": "BLAR-EN067",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Valerifawn, Mystical Beast of the Forest",
+      "set_number": "BLAR-EN068",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Number C92: Heart-eartH Chaos Dragon",
+      "set_number": "BLAR-EN069",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Number S39: Utopia the Lightning",
+      "set_number": "BLAR-EN070",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Obedience Schooled",
+      "set_number": "BLAR-EN071",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Mecha Phantom Beast O-Lion",
+      "set_number": "BLAR-EN072",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Madolche Anjelly",
+      "set_number": "BLAR-EN073",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Artifact Ignition",
+      "set_number": "BLAR-EN074",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Artifact Sanctum",
+      "set_number": "BLAR-EN075",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Ra's Disciple",
+      "set_number": "BLAR-EN076",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Nekroz of Gungnir",
+      "set_number": "BLAR-EN077",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Galaxy Worm",
+      "set_number": "BLAR-EN078",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Dragon Buster Destruction Sword",
+      "set_number": "BLAR-EN079",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Invoked Caliga",
+      "set_number": "BLAR-EN080",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Invoked Raidjin",
+      "set_number": "BLAR-EN081",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Invoked Purgatrio",
+      "set_number": "BLAR-EN082",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Invoked Elysium",
+      "set_number": "BLAR-EN083",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Invocation",
+      "set_number": "BLAR-EN084",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Chimeratech Megafleet Dragon",
+      "set_number": "BLAR-EN085",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Secure Gardna",
+      "set_number": "BLAR-EN086",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Formud Skipper",
+      "set_number": "BLAR-EN087",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Danger!? Jackalope?",
+      "set_number": "BLAR-EN088",
+      "rarities": [
+        "Secret Rare"
+      ],
+      "count": {
+        "Secret Rare": 1
+      }
+    },
+    {
+      "card_name": "Salamangreat Sunlight Wolf",
+      "set_number": "BLAR-EN089",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Salamangreat Gazelle",
+      "set_number": "BLAR-EN090",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Topologic Zeroboros",
+      "set_number": "BLAR-EN091",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Cross-Sheep",
+      "set_number": "BLAR-EN092",
+      "rarities": [
+        "Ultra Rare"
+      ],
+      "count": {
+        "Ultra Rare": 1
+      }
+    },
+    {
+      "card_name": "Ten Thousand Dragon",
+      "set_number": "BLAR-EN10K",
+      "rarities": [
+        "Prismatic Secret Rare"
+      ],
+      "count": {
+        "Prismatic Secret Rare": 1
+      }
+    }
+  ]
+}
