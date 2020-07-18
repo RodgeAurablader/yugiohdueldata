@@ -1,0 +1,24 @@
+{
+  "name": "B.E.S. Beta Core",
+  "number": "21000337",
+  "is_illegal": true,
+  "text": "If this card is Normal or Special Summoned: You can place 3 Counters on this card. Cannot be destroyed by battle. At the end of the Damage Step, if this card battled: Remove one Counter from it. If you cannot, destroy it. During either player's Main Phase: You can send this card from your hand to the Graveyard; during this Main Phase \"B.E.S.\" monsters you control are unaffected by your opponent's activated effects. You can banish any number of \"B.E.S.\" monsters from your Graveyard, including this card; Special Summon 1 \"B.E.S.\" monster from your Deck with a Level double to the total number of monsters banished to activate this effect, but destroy it during the End Phase. You can only use this effect of \"B.E.S. Beta Core\" once per turn",
+  "type": "Monster",
+  "is_monster": true,
+  "is_spell": false,
+  "is_trap": false,
+  "species": "Machine",
+  "attack": "3000",
+  "defense": "0",
+  "attribute": "FIRE",
+  "is_pendulum": false,
+  "is_xyz": false,
+  "is_synchro": false,
+  "is_fusion": false,
+  "is_link": false,
+  "is_extra_deck": false,
+  "monster_types": [
+    "Effect"
+  ],
+  "stars": "10"
+}

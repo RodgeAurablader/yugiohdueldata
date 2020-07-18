@@ -1,0 +1,11 @@
+{
+    "name": "B.E.T. Shield Regeneration",
+    "number": "21000336",
+    "is_illegal": true,
+    "text": "If you control a \"B.E.F.\" Spell, you can activate this card the turn it was Set./nOnce per turn: You can place 1 counter on each \"B.E.S.\" monster you control. /nYou can banish this card from your GY; Set 1 \"B.E.T.\" or \"B.E.F.\" Spell/Trap directly from your Deck except \"B.E.T. Shield Regeneration\", and if you do, all \"B.E.S.\" monsters you control gain 500 ATK/DEF. You can only use 1 effect of \"B.E.T. Shield Regeneration\" per turn, and only once that turn.",
+    "type": "Trap",
+    "is_monster": false,
+    "is_spell": false,
+    "is_trap": true,
+    "property": "Continuous"
+  }

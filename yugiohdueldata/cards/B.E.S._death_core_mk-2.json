@@ -1,0 +1,24 @@
+{
+    "name": "B.E.S. Death Core Mk-2",
+    "number": "21000339",
+    "is_illegal": false,
+    "text": "3 \"B.E.S.\" monsters with different names This card can only be Special Summoned from your Extra Deck by sending the above cards you control. (You do not use \"Polymerization\".) If this card is Fusion Summoned: Place 3 counters on it. Cannot be destroyed by battle. At the end of the Damage Step, if this card battled: Remove 1 counter from this card. If you cannot, destroy it. At the end of the Damage Step, if this card battled an opponent's monster: Inflict damage to your opponent equal to the ATK of the monster it battled, and you gain Life Points equal to that monster's DEF.",
+    "type": "Monster",
+    "is_monster": true,
+    "is_spell": false,
+    "is_trap": false,
+    "species": "Machine",
+    "attack": "3000",
+    "defense": "3000",
+    "attribute": "LIGHT",
+    "is_pendulum": false,
+    "is_xyz": false,
+    "is_synchro": false,
+    "is_fusion": true,
+    "is_link": false,
+    "is_extra_deck": true,
+    "monster_types": [
+      "Fusion"
+    ],
+    "stars": "12"
+  }

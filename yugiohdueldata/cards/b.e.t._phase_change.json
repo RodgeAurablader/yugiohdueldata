@@ -1,0 +1,11 @@
+{
+    "name": "B.E.T. Phase Changeo",
+    "number": "21000335",
+    "is_illegal": true,
+    "text": "Target 1 \"B.E.S.\" monster you control with at least 2 counters on it; Remove counters from that monster until it only has 1 counter remaining, and if you do, Special Summon \"B.E.S.\" monsters from your hand/GY with different names from each other and that targeted monster, up to the number of counters removed, then place 2 counters on each of those monsters. /nYou can banish this card from your GY; Set 1 \"B.E.F.\" or \"B.E.T.\" Spell/Trap directly from your Deck except \"B.E.T. Phase Change\", also place 1 counter on each \"B.E.S\" monster you control (if you control one.) /nYou can only use 1 effect of \"B.E.T. Phase Change\" per turn, and only once that turn.",
+    "type": "Spell",
+    "is_monster": false,
+    "is_spell": true,
+    "is_trap": false,
+    "property": "Quick-Play"
+  }
